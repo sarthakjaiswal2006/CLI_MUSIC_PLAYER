@@ -1,0 +1,21 @@
+{
+  "name": "cli_music_player",
+  "version": "1.0.0",
+  "description": "🎵 Terminal Music Player",
+  "main": "player.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarthakjaiswal2006/CLI_MUSIC_PLAYER.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/sarthakjaiswal2006/CLI_MUSIC_PLAYER/issues"
+  },
+  "homepage": "https://github.com/sarthakjaiswal2006/CLI_MUSIC_PLAYER#readme"
+}
